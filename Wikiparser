@@ -1,0 +1,13 @@
+//Wikiparser
+#include <iostream>
+using namespace std;
+
+cin << "Search something on Wikipedia" << search;
+
+class Search {
+	string commitsearch(){
+	cout << "NICE" search;
+	}
+};
+
+Search::commitsearch();
