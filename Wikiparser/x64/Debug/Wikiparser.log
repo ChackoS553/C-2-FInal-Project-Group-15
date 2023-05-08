@@ -1,2 +1,18 @@
 ﻿  Source.cpp
-  Wikiparser.vcxproj -> C:\Users\stanl\source\repos\C-2-FInal-Project-Group-15\Wikiparser\x64\Debug\Wikiparser.exe
+C:\Users\stanl\source\repos\C-2-FInal-Project-Group-15\Wikiparser\Source.cpp(84,49): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\stanl\source\repos\C-2-FInal-Project-Group-15\Wikiparser\Source.cpp(84,49): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+C:\Users\stanl\source\repos\C-2-FInal-Project-Group-15\Wikiparser\Source.cpp(91,17): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\stanl\source\repos\C-2-FInal-Project-Group-15\Wikiparser\Source.cpp(167,32): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\stanl\source\repos\C-2-FInal-Project-Group-15\Wikiparser\Source.cpp(124,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\stanl\source\repos\C-2-FInal-Project-Group-15\Wikiparser\Source.cpp(123,1): message : while compiling class template member function 'MyString<char>::MyString(const T *)'
+          with
+          [
+              T=char
+          ]
+C:\Users\stanl\source\repos\C-2-FInal-Project-Group-15\Wikiparser\Source.cpp(164,20): message : see reference to function template instantiation 'MyString<char>::MyString(const T *)' being compiled
+          with
+          [
+              T=char
+          ]
+C:\Users\stanl\source\repos\C-2-FInal-Project-Group-15\Wikiparser\Source.cpp(164,26): message : see reference to class template instantiation 'MyString<char>' being compiled
+C:\Users\stanl\source\repos\C-2-FInal-Project-Group-15\Wikiparser\Source.cpp(126,14): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
